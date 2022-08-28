@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You will need to provide an "API KEY" of pixelbay in App.js. [Go and get your key](https://pixabay.com/api/docs/).
+
 ## Available Scripts
 
 In the project directory, you can run:
