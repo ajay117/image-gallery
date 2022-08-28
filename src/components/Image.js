@@ -10,6 +10,8 @@ function Image({ image }) {
             alt="pixlebay_logo"
           />
           <a
+            target="_blank"
+            rel="noreferrer"
             className="pl-2 mb-1 underline text-blue-600 overflow-hidden"
             href={image.pageURL}
           >
